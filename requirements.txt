@@ -1,0 +1,16 @@
+# === Core Scientific Computing ===
+numpy           # For numerical operations and matrix computations
+
+# === GPU Acceleration ===
+pycuda          # For writing and executing CUDA kernels with Python
+
+# === Notebook Support ===
+notebook        # To run and view Jupyter Notebooks
+
+# === Optional: Visualization (if added later) ===
+# matplotlib     # Uncomment if you want to plot performance graphs
+✅ Notes:
+threading is built-in, so it doesn’t need to be included.
+
+notebook ensures you can open .ipynb files in Jupyter.
+
